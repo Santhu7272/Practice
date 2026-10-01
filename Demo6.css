@@ -1,0 +1,11 @@
+h1{
+    background-color: aqua;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: swap;
+}
+p{
+    background-color: antiquewhite;
+    font-weight: 300;
+    font-size: medium;
+}
