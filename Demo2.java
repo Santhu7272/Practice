@@ -5,6 +5,8 @@ public class Demo2 {
         int b=40;
 
         int sum=a+b;
+        int mul=a*b; // updated line
         System.out.println(sum);
+        System.out.println(mul); // updated line
     }
 }
